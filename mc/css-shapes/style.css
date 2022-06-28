@@ -83,7 +83,7 @@
   top: -45px;
   left: -65px;
   display: block;
-  content: '';
+  content: "";
   transform: rotate(-35deg);
 }
 
@@ -99,7 +99,7 @@
   border-bottom: 70px solid yellowgreen;
   border-left: 100px solid transparent;
   transform: rotate(-70deg);
-  content: '';
+  content: "";
 }
 
 .heart {
@@ -113,7 +113,7 @@
 .heart:before,
 .heart:after {
   position: absolute;
-  content: '';
+  content: "";
   left: 50px;
   top: 0;
   width: 50px;

@@ -16,7 +16,7 @@ select {
   min-width: 25ch;
 }
 
-[for='duration'] {
+[for="duration"] {
   align-items: center;
 }
 
@@ -77,19 +77,19 @@ select {
 }
 
 .toast.success::before {
-  content: '✓';
+  content: "✓";
 }
 
 .toast.error::before {
-  content: '✗';
+  content: "✗";
 }
 
 .toast.warning::before {
-  content: '⚠';
+  content: "⚠";
 }
 
 .toast.info::before {
-  content: 'ⓘ';
+  content: "ⓘ";
 }
 
 .remove {
