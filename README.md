@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Frontend Mini Challenges</h1>
   <h3>Collection of frontend challenges for learning and machine coding round interviews</h3>
-  <a href="https://bgoonz.github.io/mini-vanilla-projects/"><img src="cover.png" alt="web programming" width="500px" /></a>
+  <a href="https://bgoonz.github.io/mini-vanilla-projects/"></a>
 </div>
 
 <div align="center">
