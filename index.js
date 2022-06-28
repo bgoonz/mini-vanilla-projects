@@ -36,7 +36,7 @@ const challenges = [
 const createAnchorElement = (obj) => {
   const a = document.createElement("a");
   a.textContent = obj.title;
-  a.href = `./mc/${obj.link}/`;
+  a.href = `./source/${obj.link}/`;
 
   if (obj.link === "#") {
     a.classList.add("disabled");
